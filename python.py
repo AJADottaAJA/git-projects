@@ -1,4 +1,8 @@
 import os
+import json
+
+def str():
+    return "pypi"
 
 print("salam")
 print(type("salam"))

@@ -10,4 +10,11 @@ int jam_zarb(int a, int b)
 {
     int a[2] = {a+b, a*b}
     return a
+    
+}
+
+float taqsim(int a, int b)
+{
+    float f[2] = {a/b, a%b}
+    return f
 }
