@@ -18,3 +18,12 @@ float taqsim(int a, int b)
     float f[2] = {a/b, a%b}
     return f
 }
+
+class list()
+{
+    string str = "class eejad shod"
+    bool javab()
+    {
+        return true
+    }
+}

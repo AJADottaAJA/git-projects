@@ -9,8 +9,7 @@ print(type("salam"))
 
 a = int("121")
 
-def f(a, b):
-    return a+b
-
-def os_walk():
-    return os.os_walk()
+class one():
+    static_field = 14
+    def __init__(self, hour):
+        self.hour = hour
